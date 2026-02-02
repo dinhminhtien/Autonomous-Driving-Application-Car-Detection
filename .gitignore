@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Keras/TensorFlow Models
+*.h5
+*.hdf5
+*.pb
+*.weights
+*.onnx
+*.pt
+*.pth
+*.tflite
+
+# Large Media
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Datasets/Archives
+*.zip
+*.tar.gz
+*.rar
